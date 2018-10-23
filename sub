@@ -1,2 +1,2 @@
-#do subtraction well
+#do subtraction1
 echo $(($1-$2))
